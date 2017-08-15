@@ -1,7 +1,8 @@
 Chili Recipe
 
 Ingredients:
- - 2 pounds extra-lean ground beef
+
+ - 2 pounds lean ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
  - 2 tablespoons chili powder
